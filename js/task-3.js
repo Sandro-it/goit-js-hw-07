@@ -17,4 +17,11 @@ for (let i = 0; i < elements.length; i++) {
   elements[i].style.background = "#FFF";
   elements[i].style.width = "360px";
   elements[i].style.height = "40px";
+  elements[i].style.color = "#2E2F42";
+  elements[i].style.fontFamily = "Montserrat";
+  elements[i].style.fontSize = "16px";
+  elements[i].style.fontStyle = "normal";
+  elements[i].style.fontWeight = "400";
+  elements[i].style.lineHeight = "24px";
+  elements[i].style.letterSpacing = "0.64px";
 }
