@@ -140,3 +140,13 @@ p {
   letter-spacing: 0.04em;
   margin: 0;
 }
+
+#controls {
+  display: inline-flex;
+  padding: 24px;
+  flex-direction: row;
+  align-items: flex-start;
+  gap: 16px;
+  border-radius: 8px;
+  background: #fff;
+}
